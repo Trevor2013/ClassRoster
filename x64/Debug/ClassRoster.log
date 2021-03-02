@@ -1,0 +1,14 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(24,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(28,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(32,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(36,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(40,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(45,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(49,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(53,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRoss\Documents\Repos\ClassRoster\roster.cpp(57,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  ClassRoster.vcxproj -> C:\Users\TRoss\Documents\Repos\ClassRoster\x64\Debug\ClassRoster.exe

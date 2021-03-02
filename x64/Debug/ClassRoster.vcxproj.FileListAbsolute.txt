@@ -1,0 +1,2 @@
+C:\Users\TRoss\Documents\Repos\ClassRoster\x64\Debug\ClassRoster.exe
+C:\Users\TRoss\Documents\Repos\ClassRoster\x64\Debug\ClassRoster.pdb
